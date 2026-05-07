@@ -33,7 +33,7 @@ It does **NOT** remove important NPCs like vendors, quest givers, or story-relat
 ## Installation
 
 1. Install **BepInEx 5.4.23+**
-2. Place `NoNPCMod.dll` into `BepInEx/plugins/NoNPCMod/`
+2. Place `No NPC.dll` into `BepInEx/plugins/No NPC/`
 
 ---
 

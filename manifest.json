@@ -1,0 +1,9 @@
+{
+  "name": "NoNPCMod",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Hugsterf/no-npc-mod",
+  "description": "An optimization mod that removes moving NPCs to improve game performance. Important NPCs like vendors are preserved.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
